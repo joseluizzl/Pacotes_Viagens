@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.card-container {
+  border: 1px solid rgb(rgb(209, 9, 9)); 
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+.chamada-pacote {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+.idCanvas {
+  border:2px solid #0825ff;
+   
+}
+
+.titulo {
+  color: blue;
+  font-size: 300%;
+  font-family: cursive;
+  text-align: center;
+  margin: 5px;
+  border-color: blue;
+  border: #0825ff;
+  border-radius: 4%;
+}
+
+.rodape {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+}
+
+#vendas {
+  color: blue;
+}
+
+.rodape span {
+  font-size: 15px;
+}
+
+.seletor {
+  gap: 5px;
+}
+
+.preco {
+  font-family: "Mulish", sans-serif;
+  font-weight: 900;
+  color: yellow;
+  text-shadow: 1px 1px 3px black;
+}
+
+.parcela {
+  font-size: 30px;
+  color: #b27b44;
+  text-shadow: none;
+}
+
+.valor {
+  font-size: 45px;
+  color: #902923;
+  text-shadow: none;
+}
+
+.cifrao {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.direito {
+  margin-left: 25%;
+  margin-top: -25%;
+  margin-bottom: 10%;
+}
+.comprar {
+  position: absolute;
+  bottom: 10px;
+ }
+ .sombra {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+ }
